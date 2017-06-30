@@ -1,5 +1,5 @@
 module-name:
-    kb_ea_utils
+    kb_ea_utils_dev
 
 module-description:
     A KBase wrapper module for some functionality of the ea-utils package.
